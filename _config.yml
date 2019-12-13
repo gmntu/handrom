@@ -1,7 +1,9 @@
+# Header colors
+header_heading_color: "#fff"
+header_background_color: "#181C62"
+header_background_color_secondary: "#D71440"
+
 theme: jekyll-theme-cayman
 title: Development of an Accessible Camera-based System for Measuring Hand Joint Range of Motion
 
-# Header colors
-header_heading_color: "#fff"
-header_background_color: "#D71440"
-header_background_color_secondary: "#181C62"
+
