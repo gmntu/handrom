@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Development of an Accessible Camera-based System for Measuring Hand Joint Range of Motion
+
 ## Video on measuring hand flexion angles using multiview setup
 
 <iframe width="480" height="270" src="https://www.youtube.com/embed/P27YRtwjGfo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
