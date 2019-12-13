@@ -1,7 +1,7 @@
 title: Development of an Accessible Camera-based System for Measuring Hand Joint Range of Motion
 description: Hand Range of Motion
 remote_theme: tuur29/pages-themes-cayman
-colors:
+color:
     gradient_left: "#D71440"
     gradient_right: "#181C62"
     header: "#fff"
